@@ -1,2 +1,2 @@
 # cartodb
-make time series slider for cartodb
+Noob programmer trying to make make a time series slider for cartodb
